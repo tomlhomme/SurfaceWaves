@@ -1,0 +1,3 @@
+[submodule "Numerica"]
+	path = Numerica
+	url = https://github.com/tomlhomme/Numerica.git
